@@ -7,7 +7,7 @@ Palpation Training
 
 1. Open the Unity project.
 
-2. Open the Scene in Unity ```Assets/Scenes/Palpation22222``` (This scene is the modification version of the ```Palpation``` Scene from the original git)
+2. Open the Scene in Unity ```Assets/Scenes/Palpation22222``` (This scene is the modification version of the ```Palpation``` Scene from the original git [PalpationTraining.git](https://github.com/wudongwudong/PalpationTraining.git) )
 
 3. Change the HoloLens IPv4 address in the python script ```Assets/Scripts/PatientDialogGPT.py```:
 
