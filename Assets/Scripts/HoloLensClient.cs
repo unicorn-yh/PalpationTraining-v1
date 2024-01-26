@@ -33,9 +33,9 @@ public class HoloLensClient : MonoBehaviour
     private string recognizedString = "";
     private System.Object threadLocker = new System.Object();
 
-    // Speech
-    public string SpeechServiceAPIKey = "23995b532256401da6244943a06a624c";
-    public string SpeechServiceRegion = "eastasia";
+    // Microsoft Cognitive Speech Service
+    public string SpeechServiceAPIKey = "your speech service api key";
+    public string SpeechServiceRegion = "your service region";
     private SpeechRecognizer recognizer;
     string fromLanguage = "en-US";
     private bool micPermissionGranted = false;
