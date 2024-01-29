@@ -33,9 +33,5 @@ Palpation Training
 8. After successfully deploy and build the project on HoloLens, run the python script  ```PatientDialogGPT.py```  to get connection with HoloLens. (GPT API might be malfunctioning occasionally)
 
 
-<br>
 
-## Demo
-
-<video src="./../VR-Medical-Palpation-Education-and-Training-System/video/20240114-MSVoice1.1.mp4"></video>
 
